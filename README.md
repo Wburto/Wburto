@@ -14,4 +14,5 @@
   
 - 🔭 I’m currently working on [a Forage project with Quantium](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)
 
-My GitHub is a place to explore my projects in greater detail, including accessing technical reports and notebooks in all their extended glory. 
+
+<h3 align="center">My GitHub is a place to explore my projects in greater detail, including accessing technical reports and notebooks in all their extended glory.</h3>

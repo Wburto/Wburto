@@ -1,7 +1,7 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/Wburto/Wburto/assets/132344378/ea2cf2ff-fc99-4832-b253-6c4a2bf1f3eb)
 
 <h1 align="center">Hi, I'm Will and I'm a data analyst</h1>
-<h3 align="center">An ambitious, rigorous career changer with a creative background looking for meaningful opportunities to contribute</h3>
+<h3 align="center">An ambitious career changer with a creative background looking for meaningful opportunities to contribute</h3>
 
 
 - 👨‍💻 Learn about me on my website [www.willburton.co.uk](www.willburton.co.uk)
@@ -13,3 +13,5 @@
 - ⚡ Fun fact **I have a degree in artisan baking**
   
 - 🔭 I’m currently working on [a Forage project with Quantium](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)
+
+My GitHub is a place to explore my projects in greater detail, including accessing technical reports and notebooks in all their extended glory. 
